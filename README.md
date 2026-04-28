@@ -24,7 +24,7 @@ Uma calculadora inteligente e minimalista para comparar preços por unidade de m
 1. Clone o Repositório:
 ```bash
 git clone https://github.com/pinheirosdev/vale-a-pena.git
-cd vale-a-pena
+cd vale-a-pena/code
 ```
 
 2. Instale as dependências:
