@@ -1,6 +1,6 @@
 # Vale a Pena? 🤔
 
-Uma calculadora inteligente e minimalista para comparar preços por unidade de medida (PWA). Desenvolvida para ser rápida, offline-first e ajudar você a economizar de verdade no supermercado.
+Uma calculadora inteligente e minimalista para comparar preços por unidade de medida (PWA). Desenvolvida para ser rápida, offline-first e ajudar você a economizar de verdade.
 
 ## ✨ Funcionalidades
 
@@ -21,14 +21,45 @@ Uma calculadora inteligente e minimalista para comparar preços por unidade de m
 
 ## 🚀 Como Rodar
 
-1. Instale as dependências:
+1. Clone o Repositório:
+```bash
+git clone https://github.com/pinheirosdev/vale-a-pena.git
+cd vale-a-pena
+```
+
+2. Instale as dependências:
 ```bash
 npm install
 ```
 
-2. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
 ```
 
 3. Acesse `http://localhost:3000` no seu navegador.
+
+## 👨‍💻 Desenvolvedores
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/pinheirosdev">
+        <img src="https://avatars.githubusercontent.com/u/124714182?v=4" width="100px;" alt="Lucas Pinheiro"/><br>
+        <sub>
+          <b>Lucas Pinheiro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### ☎️ Contato
+
+Se você quiser entrar em contato comigo, pode me encontrar no [Gmail](mailto:cttpinheiros.dev@gmail.com).
+
+### 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](README.md)<br>
